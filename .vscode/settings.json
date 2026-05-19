@@ -1,0 +1,8 @@
+{
+    "python.defaultInterpreterPath": "D:\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.pythonPath": "D:\\AppData\\Local\\Programs\\Python\\Python38\\python.exe",
+    "python.analysis.extraPaths": [
+        "E:\\study\\cctext",
+        "D:\\AppData\\Local\\Programs\\Python\\Python38\\lib\\site-packages"
+    ]
+}
